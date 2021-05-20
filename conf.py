@@ -1,2 +1,2 @@
-TOKEN = '1682372270:AAFtRTywQCCwAH1TFVotNma1LnnEynDvBoY'
+TOKEN = ''
 DB_NAME = 'weather_db.sqlite'
